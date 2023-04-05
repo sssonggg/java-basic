@@ -4,7 +4,89 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3fe7cc3-0cf5-4112-b114-55ac38e5df1e" name="Changes" comment="230328 자바 ~배열(푸시/팝/퀴즈)" />
+    <list default="true" id="e3fe7cc3-0cf5-4112-b114-55ac38e5df1e" name="Changes" comment="230328 자바 ~배열(푸시/팝/퀴즈)">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/ArrayDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/ArrayInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/ArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/ArraySearchQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/ArraySearchQuizAn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/MethodBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/MethodQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/DanceLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/Dancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/DancerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/FieldAndLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/FieldMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/PakagePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/Singer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/StringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/array/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/array/StringList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/member/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/member/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/member/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/member/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/member/MemberView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/member/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/member/요구사항.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/player/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/player/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/encap/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/encap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/modi/pac1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/modi/pac1/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/modi/pac2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/inherit/Hunter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/inherit/Mage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/inherit/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/inherit/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/inherit/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/lotto/Lotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/lotto/LottoSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/lotto/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/protec/pac1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/protec/pac1/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/protec/pac2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/protec/pac2/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/quiz/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/quiz/GisaFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/quiz/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/quiz/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/static_/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/static_/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/static_/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/static_/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/Car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/Car/CarShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/Car/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/Car/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/Car/Mustang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/Car/Stinger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/Car/Tucson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/HpMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/LgMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/SamsungKeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/book/BookUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/book/CartoonBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/book/CookBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/book/LibraryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/book/LibraryView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/book/RentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/book/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/poly/overloading/Over.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fruit/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fruit/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fruit/Grape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/juice/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,37 +96,54 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/day05/member/Test.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2NZkIVTiZpjHAtHpkw3zbf7zTYB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.ArrayPushQuiz">
-    <configuration name="ArrayBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.ArrayBasic" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="day08.poly" />
+      <recent name="day05.member" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day03" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.Run">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day08.poly.book.Main" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02.*" />
+          <option name="PATTERN" value="day08.poly.book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.ArrayCopy" />
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day08.poly.book.Run" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02.*" />
+          <option name="PATTERN" value="day08.poly.book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayPop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.ArrayPop" />
+    <configuration name="day05.member.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05.member.Main" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02.*" />
+          <option name="PATTERN" value="day05.member.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayPush" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.ArrayPush" />
+    <configuration name="day07.inherit.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day07.inherit.Main" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02.*" />
+          <option name="PATTERN" value="day07.inherit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayPushQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.ArrayPushQuiz" />
+    <configuration name="day08.poly.Car.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day08.poly.Car.Main" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02.*" />
+          <option name="PATTERN" value="day08.poly.Car.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.ArrayPushQuiz" />
-        <item itemvalue="애플리케이션.ArrayPop" />
-        <item itemvalue="애플리케이션.ArrayPush" />
-        <item itemvalue="애플리케이션.ArrayCopy" />
-        <item itemvalue="애플리케이션.ArrayBasic" />
+        <item itemvalue="애플리케이션.Run" />
+        <item itemvalue="애플리케이션.day05.member.Main" />
+        <item itemvalue="애플리케이션.day08.poly.book.Main" />
+        <item itemvalue="애플리케이션.day08.poly.Car.Main" />
+        <item itemvalue="애플리케이션.day07.inherit.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +250,28 @@
       <option name="project" value="LOCAL" />
       <updated>1679982880275</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="230328 자바 ~배열(푸시/팝/퀴즈)">
+      <created>1679983000118</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679983000118</updated>
+    </task>
+    <task id="LOCAL-00006" summary="230328 자바 ~배열(푸시/팝/퀴즈)">
+      <created>1679983007630</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679983007630</updated>
+    </task>
+    <task id="LOCAL-00007" summary="230328 자바 ~배열(푸시/팝/퀴즈)">
+      <created>1679983037479</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679983037479</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +291,21 @@
     <MESSAGE value="23032" />
     <MESSAGE value="230328 자바 ~배열(푸시/팝/퀴즈)" />
     <option name="LAST_COMMIT_MESSAGE" value="230328 자바 ~배열(푸시/팝/퀴즈)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day07/lotto/Main.java</url>
+          <line>5</line>
+          <properties class="day07.lotto.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
